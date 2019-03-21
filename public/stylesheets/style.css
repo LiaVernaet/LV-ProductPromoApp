@@ -83,7 +83,7 @@ ul {
   font-size: 26px;
   border-radius: 7px;
   text-decoration: none;
-  color: rgb(236, 0, 0);
+  color: white;
   background-color: #353535;
   font-family: "Dancing Script", cursive;
   -webkit-transition: background-color .5s ease-out;
@@ -92,7 +92,7 @@ ul {
   transition: background-color .5s ease-out; }
 
 #mainNav li a:hover, #submit:hover {
-  background-color: #464a94; }
+  background-color: #7a7a7a; }
 
 #logo {
   margin-top: -100px;
