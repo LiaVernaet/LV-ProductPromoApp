@@ -15,7 +15,7 @@ classicFlavor: 'Our classic Coca Cola drink is sure to keep you refreshed on a h
 
 cherryFlavor: 'Want to try something a bit different? Try our Cherry Cola for a delicious juicy taste.',
 
-vanillaFlavor: 'Its like a cream soda in a drink. Try our vanilla cola!'
+vanillaFlavor: 'Its like a cream soda in a bottle. Try our vanilla cola!'
 
 
 
