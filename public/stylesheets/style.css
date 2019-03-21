@@ -58,6 +58,9 @@ h1 {
   font-size: 25px;
 }
 
+.flavorsFloat {
+  float: left;
+}
 p {
   font-size: 18px; 
   color: #353535;
