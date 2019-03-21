@@ -60,7 +60,7 @@ p {
 #mainNav {
   margin: 0;
   padding: 0;
-  height: 45px;
+  height: 75px;
   margin-top: 5px; }
 
 #mainNav li {
@@ -69,7 +69,7 @@ p {
   text-decoration: none;
   padding-right: 15px;
   padding-left: 15px;
-  padding-top: 60px; }
+  padding-top: 90px; }
 
 ul {
   list-style-type: none; }
@@ -103,9 +103,6 @@ ul {
   animation-name: logoAnimate;
   animation-duration: .6s; }
 
-#logoMobile {
-  display: none; }
-
 @keyframes logoAnimate {
   from {
     transform: scale(1); }
@@ -129,7 +126,7 @@ ul {
   padding-bottom: 50px;
   margin-bottom: 50px; }
 
-.myWorkTitle {
+.flavorsTitle {
   color: #a5b1ff;
   font-family: "Quicksand", sans-serif; }
 
