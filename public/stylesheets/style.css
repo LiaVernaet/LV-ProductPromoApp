@@ -58,6 +58,10 @@ h1 {
   font-size: 25px;
 }
 
+#flavorSection div{
+  float: left;
+}
+
 .flavorsFloat {
   float: left;
   background-color: blue;
