@@ -111,12 +111,16 @@ ul {
   to {
     transform: scale(1.1); } }
 #banner {
-  background-color: #353535; }
+  background-color: #353535;
+  border-radius: 10px;
+
+}
 
 .divTitle {
   padding: 20px;
-  color: #c0c8ff;
+  color: rgb(236, 0, 0);
   font-family: "Quicksand", sans-serif;
+  font-size: 20px;
   text-align: center; }
 
 #reelContainer {
