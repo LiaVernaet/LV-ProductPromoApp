@@ -55,7 +55,8 @@ p {
 /*header goes here*/
 #headerCon {
   background-color: rgb(236, 0, 0);
-  margin-bottom: 40px;
+  margin-bottom: 100px;
+  padding: 20px;
   position: fixed; }
 
 #mainNav {
