@@ -143,8 +143,7 @@ ul {
 }
 
 .flavimg {
-  text-align: center;
-  
+margin-left: 20px;
 }
 
 .divTitle {
@@ -182,50 +181,19 @@ ul {
   color: white; }
 
 
-#appVid a {
-  display: inline; }
-
-#appPhoto a {
-  display: inline; }
-
-
-#submit {
-  float: right;
-  color: #c0c8ff;
-  font-family: "Dancing Script", cursive;
-  background-color: #6e717a;
-  font-size: 26px;
-  padding: 5px;
-  padding-left: 15px;
-  padding-right: 15px;
-  margin-bottom: 30px;
-  margin-top: 0;
-  border-radius: 7px;
-  -webkit-transition: background-color .5s ease-out;
-  -moz-transition: background-color .5s ease-out;
-  -o-transition: background-color .5s ease-out;
-  transition: background-color .5s ease-out; }
-
 #footerCon {
-  background-color: #6e717a; }
+  background-color: rgb(236, 0, 0); }
 
 #footerText {
   float: right;
-  color: #a5b1ff;
+  color: white;
   font-family: "Quicksand", sans-serif;
   font-size: 25px; }
 
-.show-movie {
-  max-height: 1200px; }
 
 a {
   text-decoration: none; }
 
-.back-home {
-  color: white;
-  margin-bottom: 16px;
-  display: block;
-  padding-left: 8px; }
 
 .menu a {
   -webkit-transition: opacity .5s ease-out;
@@ -236,7 +204,7 @@ a {
 .menu a:hover {
   opacity: .5; }
 
-.movie-title {
+/* .movie-title {
   font-size: 50px;
   text-align: center;
   margin-top: 20px;
@@ -256,12 +224,12 @@ a {
   margin: 0 auto;
   color: #a5b1ff;
   font-family: "Quicksand", sans-serif;
-  font-size: 25px; }
+  font-size: 25px; } */
 
-.show-scroller {
-  display: inline-block !important; }
+/* .show-scroller {
+  display: inline-block !important; } */
 
-.lightbox {
+/* .lightbox {
   display: none;
   position: fixed;
   top: 0;
@@ -285,8 +253,8 @@ a {
   display: inline-block !important; }
 
 .close-lightbox {
-  display: none; }
-
+  display: none; } */
+/* 
 video {
   width: 65%; }
 
@@ -294,17 +262,8 @@ video {
   display: none; }
 
 .show-movie {
-  max-height: 1200px; }
+  max-height: 1200px; } */
 
-#catSymbol {
-  float: left;
-  padding-right: 50px;
-  margin-top: 50px; }
-
-#catFlipped {
-  float: right;
-  margin-left: 20px;
-  margin-top: 50px; }
 
 /*# sourceMappingURL=main.css.map */
 .hidden-movies {
