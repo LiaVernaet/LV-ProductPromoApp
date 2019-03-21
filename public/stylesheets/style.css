@@ -56,7 +56,7 @@ p {
 #headerCon {
   background-color: rgb(236, 0, 0);
   margin-bottom: 100px;
-  padding: 40px;
+  padding-bottom: 40px;
   position: fixed; }
 
 #mainNav {
@@ -69,7 +69,7 @@ p {
   float: right;
   list-style-type: none;
   text-decoration: none;
-  padding-right: 15px;
+  padding-right: 25px;
   padding-left: 15px;
   padding-top: 90px; }
 
