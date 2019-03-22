@@ -18,7 +18,8 @@ body {
     border: 10px solid red;
     border-radius: 15px;
     padding: 0;
-    width: 580px;
+    width: 560px;
+    height: 315px;
     margin-left: 450px;
     /* padding: 20px; */
   }
