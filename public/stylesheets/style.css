@@ -15,10 +15,10 @@ body {
 
 
   #videoContainer {
-    border: 5px solid red;
+    border: 10px solid red;
     border-radius: 15px;
     padding: 0;
-    width: 500px;
+    width: 550px;
     margin-left: 450px;
     /* padding: 20px; */
   }
