@@ -42,7 +42,7 @@ body {
   margin-top: 0;
   margin-bottom: 30px;
   text-align: center;
-  color: rgb(236, 0, 0); }
+  color:white }
 
 #banner p {
   font-size: 40px;
@@ -53,7 +53,6 @@ body {
   font-family: "Dancing Script", cursive; }
 
 #banner {
-  /*background-color: #acd373;*/
   padding-bottom: 200px;
   padding-top: 220px; }
 
@@ -150,7 +149,7 @@ ul {
   to {
     transform: scale(1.1); } }
 #banner {
-  background-color: #353535;
+  background-color: rgb(236, 0, 0);
   border-radius: 10px;
 
 }
@@ -221,113 +220,10 @@ a {
 .menu a:hover {
   opacity: .5; }
 
-/* .movie-title {
-  font-size: 50px;
-  text-align: center;
-  margin-top: 20px;
-  margin-bottom: 10px;
-  color: #c0c8ff;
-  font-family: "Dancing Script", cursive; }
 
-.movie-details {
-  padding-top: 12px;
-  margin-bottom: 40px;
-  margin: 10px;
-  margin-left: 120px;
-  margin-right: 120px; }
-
-.movie-details p {
-  text-align: center;
-  margin: 0 auto;
-  color: #a5b1ff;
-  font-family: "Quicksand", sans-serif;
-  font-size: 25px; } */
-
-/* .show-scroller {
-  display: inline-block !important; } */
-
-/* .lightbox {
-  display: none;
-  position: fixed;
-  top: 0;
-  width: 80%;
-  height: 100%;
-  text-align: center;
-  padding-bottom: 40px;
-  background-color: rgba(0, 0, 0, 0.65); }
-
-.closeButton {
-  position: absolute;
-  right: 12px;
-  top: 12px;
-  font-family: arial, helvetica, sans-serif;
-  font-size: 2em;
-  font-weight: bold;
-  color: white;
-  cursor: pointer; }
-
-.show-lightbox {
-  display: inline-block !important; }
-
-.close-lightbox {
-  display: none; } */
-/* 
-video {
-  width: 65%; }
-
-.closeButton span {
-  display: none; }
-
-.show-movie {
-  max-height: 1200px; } */
 
 
 /*# sourceMappingURL=main.css.map */
-.hidden-movies {
-  display: none;
-  position: fixed;
-  top: 0;
-  width: 80%;
-  height: 100%;
-  text-align: center;
-  padding-bottom: 40px;
-  background-color: rgba(0, 0, 0, 0.65); }
-
-.hidden-movies2 {
-  display: none;
-  position: fixed;
-  top: 0;
-  width: 37%;
-  height: 100%;
-  text-align: center;
-  padding-bottom: 40px;
-  padding-left: 100px;
-  padding-right: 100px;
-  margin-left: 280px;
-  background-color: rgba(0, 0, 0, 0.65); }
-
-.movie-details2 p {
-  text-align: center;
-  margin: 0 auto;
-  color: #a5b1ff;
-  font-family: "Quicksand", sans-serif;
-  font-size: 25px;
-  width: 700px;
-  padding-right: 90px; }
-
-.close-lightbox {
-  position: absolute;
-  right: 12px;
-  top: 12px;
-  font-family: arial, helvetica, sans-serif;
-  font-size: 2em;
-  font-weight: bold;
-  color: white;
-  cursor: pointer; }
-
-.show-movie {
-  max-height: 1000px;
-  display: block; }
 
 @media only screen and (min-width: 1px) and (max-width: 720px) {
   #headerCon {
@@ -368,68 +264,6 @@ video {
     padding-right: 150px;
     font-size: 43px; }
 
-  .menu {
-    padding-top: 450px; }
-
-  .menu img {
-    width: 500px; }
-
-  #submit {
-    float: right;
-    color: #c0c8ff;
-    font-family: "Dancing Script", cursive;
-    background-color: #6e717a;
-    font-size: 46px;
-    padding: 5px;
-    padding-left: 15px;
-    padding-right: 15px;
-    margin-bottom: 30px;
-    margin-top: 0; }
-
-  .movie-title {
-    font-size: 70px;
-    margin-top: 40px; }
-
-  .movie-details {
-    padding-top: 12px;
-    margin-bottom: 40px;
-    padding-right: 50px;
-    margin: 10px;
-    margin-left: 50px;
-    margin-right: 50px; }
-
-  .movie-details p {
-    text-align: center;
-    margin: 0 auto;
-    color: #a5b1ff;
-    font-family: "Quicksand", sans-serif;
-    font-size: 25px; }
-
-  .show-scroller {
-    display: inline-block !important; }
-
-  .lightbox {
-    display: none;
-    position: fixed;
-    top: 0;
-    width: 100%;
-    height: 100%;
-    text-align: center;
-    padding-bottom: 40px;
-    background-color: rgba(0, 0, 0, 0.65); }
-
-  .closeButton {
-    position: absolute;
-    right: 12px;
-    top: 12px;
-    font-family: arial, helvetica, sans-serif;
-    font-size: 80px;
-    font-weight: bold;
-    color: white;
-    cursor: pointer; }
-
-  .hidden-movies video {
-    width: 80%; } }
 
 /*# sourceMappingURL=main.css.map */
 
