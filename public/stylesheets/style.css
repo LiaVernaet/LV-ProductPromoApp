@@ -18,6 +18,7 @@ body {
     border: 5px solid red;
     border-radius: 15px;
     padding: 0;
+    width: 560px;
     /* padding: 20px; */
   }
 
