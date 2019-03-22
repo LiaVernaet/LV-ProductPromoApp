@@ -13,6 +13,14 @@ a {
 body {
   background-color: white; }
 
+
+  #videoContainer {
+    border: 5px solid red;
+    border-radius: 15px;
+    padding: 20px;
+    margin-left: 100px;
+  }
+
 #appVid ul {
   margin-left: 100px; }
 
