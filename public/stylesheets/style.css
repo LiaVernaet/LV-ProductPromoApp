@@ -25,12 +25,8 @@ body {
     /* padding: 20px; */
   }
 
-iframe {
-  /* margin-left: 450px; */
-}
-
 #footerCon {
-  color: red;
+  background-color: red;
 }
 
 #footerCon p {
