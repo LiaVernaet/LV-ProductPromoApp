@@ -17,11 +17,11 @@ body {
   #videoContainer {
     border: 5px solid red;
     border-radius: 15px;
-    padding: 20px;
+    /* padding: 20px; */
   }
 
 iframe {
-  margin-left: 500px;
+  margin-left: 450px;
 }
 
 
