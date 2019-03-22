@@ -21,22 +21,9 @@ body {
   }
 
 iframe {
-  margin-left: 400px;
+  margin-left: 500px;
 }
 
-#appVid ul {
-  margin-left: 100px; }
-
-#appPhoto ul {
-  margin-left: 100px; }
-
-
-.thumbnails {
-  display: inline; }
-
-.thumbnails img {
-  border: 5px solid black;
-  margin-bottom: 20px; }
 
 #banner h2, #banner p {
   margin-top: 0;
