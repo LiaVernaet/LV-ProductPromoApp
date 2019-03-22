@@ -21,6 +21,7 @@ body {
     width: 560px;
     height: 315px;
     margin-left: 450px;
+    margin-top: 20px;
     /* padding: 20px; */
   }
 
@@ -28,6 +29,14 @@ iframe {
   /* margin-left: 450px; */
 }
 
+#footerCon {
+  color: red;
+}
+
+#footerCon p {
+  color: white;
+  float: right;
+}
 
 #banner h2, #banner p {
   margin-top: 0;
