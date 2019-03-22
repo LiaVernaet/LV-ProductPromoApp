@@ -28,12 +28,14 @@ body {
 #footerCon {
   background-color: red;
   /* padding: 20px; */
+  margin-top: 30px;
   padding-bottom: 60px;
 }
 
 #footerCon p {
   color: white;
   float: right;
+  margin-right: 10px;
 }
 
 #banner h2, #banner p {
