@@ -20,6 +20,10 @@ body {
     padding: 20px;
   }
 
+iframe {
+  margin-left: 100px;
+}
+
 #appVid ul {
   margin-left: 100px; }
 
