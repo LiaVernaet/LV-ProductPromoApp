@@ -59,6 +59,6 @@ var textArray = [
 
  var randomNumber = Math.floor(Math.random()*textArray.length);
 
-// catName.setAttribute('src', textArray[randomNumber]);
+catName.setAttribute('src', textArray[randomNumber]);
 
 // module.exports = app;
