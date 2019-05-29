@@ -59,7 +59,7 @@ var textArray = [
 
  var randomNumber = Math.floor(Math.random()*textArray.length);
 
- var catName = document.getElementById('catName');
+ // var catName = document.getElementById('catName');
 
 // catName.setAttribute('src', textArray[randomNumber]);
 
